@@ -1,6 +1,6 @@
 # Wylo-Assignment
 
-# Develop a responsive web application using ReactJS  that allows users to create and edit posts.
+Develop a responsive web application using ReactJS  that allows users to create and edit posts.
 
 The application consist of two screens:
 
